@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/tloft/.local/code/surf'
+let g:netrw_dirhist_8='/home/tloft/.local/code'
+let g:netrw_dirhist_7='/home/tloft/.local/code/st'
+let g:netrw_dirhist_6='/home/tloft/.local'
+let g:netrw_dirhist_5='/home/tloft/Downloads'
+let g:netrw_dirhist_4='/home/tloft/.local/code/slock'
+let g:netrw_dirhist_3='/home/timothyl/.local/tilp/.dossier/20210909224235'
+let g:netrw_dirhist_2='/home/timothyl/.local/tilp/.dossier'
+let g:netrw_dirhist_1='/home/timothyl/Documents/code/golang/galca'
